@@ -42,11 +42,8 @@ Larger, more complete projects. These are real programs that could be expanded, 
 - [ ] Multithreading & concurrency
 - [ ] Java 8+ features (lambdas, streams, optionals)
 
----
-### JAVA Version
----
-JAVA = 21
----
+### Java Version
+![Java](https://img.shields.io/badge/Java-21-orange)
 
 ## License
 
