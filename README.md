@@ -15,12 +15,20 @@ This repo documents my learning path through Java fundamentals and beyond. It co
 ---
 
 ## Structure
-
 ```
 MJF/
-├── SProjects/   # Small practice projects — one concept at a time
-└── BProjects/   # Bigger real-world projects — may grow into independent repos
+├── CH1/
+│   ├── README.md
+│   ├── SProjects/   # Small practice projects
+│   └── BProjects/   # Bigger real-world projects
+├── CH2/
+│   ├── README.md
+│   ├── SProjects/
+│   └── BProjects/
+└── ...
 ```
+
+Each chapter has its own README with the lessons covered and projects built.
 
 ### SProjects
 Small, focused projects built to practice and reinforce specific Java concepts. Each project targets one idea (e.g. OOP, collections, generics, exceptions).
@@ -32,15 +40,9 @@ Larger, more complete projects. These are real programs that could be expanded, 
 
 ## Roadmap
 
-- [ ] Java basics (variables, control flow, methods)
-- [ ] Object-Oriented Programming (classes, inheritance, polymorphism)
-- [ ] Interfaces & abstract classes
-- [ ] Exception handling
-- [ ] Collections framework
-- [ ] Generics
-- [ ] File I/O
-- [ ] Multithreading & concurrency
-- [ ] Java 8+ features (lambdas, streams, optionals)
+- [ ] CH1 — Java Basics (Data Types, Operators, Input, Selection Statements)
+
+---
 
 ### Java Version
 ![Java](https://img.shields.io/badge/Java-21-orange)
