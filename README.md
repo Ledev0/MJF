@@ -43,6 +43,10 @@ Larger, more complete projects. These are real programs that could be expanded, 
 - [ ] Java 8+ features (lambdas, streams, optionals)
 
 ---
+### JAVA Version
+---
+JAVA = 21
+---
 
 ## License
 
