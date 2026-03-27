@@ -73,14 +73,8 @@ MJF/
 ├── CH1/
 │   ├── README.md              # Chapter overview
 │   ├── SProjects/             # Small practice projects
-│   │   ├── PersonalInfoPrinter.java
-│   │   ├── SimpleCalculator.java
-│   │   ├── CounterDemo.java
-│   │   ├── FormattedUserProfile.java
-│   │   ├── GradeChecker.java
-│   │   └── NumberSignChecker.java
 │   └── BProjects/             # Bigger real-world projects
-│       └── StudentReportCard.java
+│      
 ├── CH2/
 │   ├── README.md
 │   ├── SProjects/
@@ -102,14 +96,14 @@ Each chapter has its own README with detailed lessons and project descriptions.
 
 | Chapter | Topic | Status |
 |---------|-------|--------|
-| CH1 | Java Basics (Data Types, Operators, Input, Selection) | ✅ In Progress |
-| CH2 | Loops & Arrays | ⏳ Planned |
-| CH3 | Methods & Functions | ⏳ Planned |
-| CH4 | Object-Oriented Programming (OOP) | ⏳ Planned |
-| CH5 | Collections Framework | ⏳ Planned |
-| CH6 | Exception Handling | ⏳ Planned |
-| CH7 | File I/O & Streams | ⏳ Planned |
-| CH8 | Generics & Advanced Concepts | ⏳ Planned |
+| CH1 | Java Basics (Data Types, Operators, Input, Selection) | ✅ FINISHED |
+| CH2 | Control Flow Statements | ⏳ IN PROGRESS |
+| CH3 | COOMING SOON | ⏳ Planned |
+| CH4 | COOMING SOON | ⏳ Planned |
+| CH5 | COOMING SOON | ⏳ Planned |
+| CH6 | COOMING SOON | ⏳ Planned |
+| CH7 | COOMING SOON | ⏳ Planned |
+| CH8 | COOMING SOON | ⏳ Planned |
 
 ---
 
