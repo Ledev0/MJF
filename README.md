@@ -97,8 +97,8 @@ Each chapter has its own README with detailed lessons and project descriptions.
 | Chapter | Topic | Status |
 |---------|-------|--------|
 | CH1 | Java Basics (Data Types, Operators, Input, Selection) | ✅ FINISHED |
-| CH2 | Control Flow Statements | ⏳ IN PROGRESS |
-| CH3 | COOMING SOON | ⏳ Planned |
+| CH2 | Control Flow Statements | ✅ FINISHED |
+| CH3 | Methods / Functions | ⏳ IN PROGRESS |
 | CH4 | COOMING SOON | ⏳ Planned |
 | CH5 | COOMING SOON | ⏳ Planned |
 | CH6 | COOMING SOON | ⏳ Planned |
