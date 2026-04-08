@@ -16,6 +16,7 @@ Third chapter focusing on Java methods and functions. This chapter covers defini
 ## 🎯 Learning Objectives
 
 By the end of this chapter, you will be able to:
+
 - ✅ Understand the concept of methods and their importance in modular programming.
 - ✅ Define and call methods with and without parameters and return types.
 - ✅ Utilize built-in Java methods effectively.
@@ -27,26 +28,32 @@ By the end of this chapter, you will be able to:
 ## 📖 Lessons Covered
 
 ### 1️⃣8️⃣ **Method / Function Part 1**
+
 - Basic method definition, calling, parameters, return types
 - **File:** `SProjects/CalculatorMethods.java`
 
 ### 1️⃣9️⃣ **Method / Function Part 2 (Examples)**
+
 - More practical examples and best practices
 - **File:** `SProjects/CalculatorMethods.java`
 
 ### 2️⃣0️⃣ **Built-in Methods**
+
 - Exploring common built-in methods (e.g., String, Math)
 - **File:** `SProjects/StringUtils.java`
 
 ### 2️⃣1️⃣ **Overloading Method / Function**
+
 - Defining multiple methods with the same name but different parameters
 - **File:** `SProjects/ShapeCalculator.java`
 
 ### 2️⃣2️⃣ **Recursion/Recursive Methods Part 1**
+
 - Introduction to recursion, base cases
 - **File:** `SProjects/Factorial.java`
 
 ### 2️⃣3️⃣ **Recursion/Recursive Methods Part 2**
+
 - Advanced recursion, common recursive patterns (e.g., Fibonacci)
 - **File:** `SProjects/Fibonacci.java`
 
@@ -77,21 +84,25 @@ By the end of this chapter, you will be able to:
 ### Running a Single Project
 
 **Navigate to the project:**
+
 ```bash
 cd CH3/SProjects
 ```
 
 **Compile the Java file:**
+
 ```bash
 javac YourProjectName.java
 ```
 
 **Run the program:**
+
 ```bash
 java YourProjectName
 ```
 
 ### Example: Running CalculatorMethods
+
 ```bash
 cd CH3/SProjects
 javac CalculatorMethods.java
@@ -106,6 +117,7 @@ java CalculatorMethods
 ```
 
 ### Running the Big Project (Library Management System)
+
 ```bash
 cd CH3/BProjects/LibraryManagementSystem
 javac LibraryManagementSystem.java
