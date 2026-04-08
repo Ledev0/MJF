@@ -79,7 +79,7 @@ By the end of this chapter, you will be able to:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Running a Single Project
 
@@ -150,9 +150,9 @@ See [`LibraryManagementSystem/README.md`](./BProjects/LibraryManagementSystem/RE
 
 ## ✅ Chapter Status
 
-- [ ] Lessons: All 6 lessons outlined
-- [ ] SProjects: All 5 projects included
-- [ ] BProjects: Library Management System included
+- [x] Lessons: All 6 lessons outlined
+- [x] SProjects: All 5 projects included
+- [x] BProjects: Library Management System included
 
 ---
 

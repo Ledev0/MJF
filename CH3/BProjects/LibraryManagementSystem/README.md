@@ -14,15 +14,20 @@ A console-based application to manage a library's books. Users can add new books
 
 ## ▶️ How to Run
 
-1.  **Navigate to the project directory:**
+1. **Navigate to the project directory:**
+
     ```bash
     cd CH3/BProjects/LibraryManagementSystem
     ```
-2.  **Compile the Java file:**
+
+2. **Compile the Java file:**
+
     ```bash
     javac LibraryManagementSystem.java
     ```
-3.  **Run the program:**
+
+3. **Run the program:**
+
     ```bash
     java LibraryManagementSystem
     ```
