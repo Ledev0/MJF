@@ -98,12 +98,12 @@ Each chapter has its own README with detailed lessons and project descriptions.
 |---------|-------|--------|
 | CH1 | Java Basics (Data Types, Operators, Input, Selection) | ✅ FINISHED |
 | CH2 | Control Flow Statements | ✅ FINISHED |
-| CH3 | Methods / Functions | ⏳ IN PROGRESS |
-| CH4 | COOMING SOON | ⏳ Planned |
-| CH5 | COOMING SOON | ⏳ Planned |
-| CH6 | COOMING SOON | ⏳ Planned |
-| CH7 | COOMING SOON | ⏳ Planned |
-| CH8 | COOMING SOON | ⏳ Planned |
+| CH3 | Methods / Functions | ✅ FINISHED |
+| CH4 | Arrays | ⏳ IN PROGRESS |
+| CH5 | COMING SOON | ⏳ Planned |
+| CH6 | COMING SOON | ⏳ Planned |
+| CH7 | COMING SOON | ⏳ Planned |
+| CH8 | COMING SOON | ⏳ Planned |
 
 ---
 
@@ -154,8 +154,8 @@ java SimpleCalculator
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=java)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Chapters](https://img.shields.io/badge/Chapters-1%2F8-blue?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Updated-March%202026-lightgrey?style=flat-square)
+![Chapters](https://img.shields.io/badge/Chapters-4%2F8-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Updated-April%202026-lightgrey?style=flat-square)
 
 ---
 
